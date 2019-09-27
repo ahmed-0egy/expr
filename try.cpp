@@ -14,13 +14,14 @@ public :
 
 int main()
 {
-	const int s = 1000;
+	/*const int s = 1000;
 	ahmed a[s+1];
 	for (int i = 1; i <= s; ++i)
 		a[i].print(i);
 	cout << "\n\n\n\n\n";
 	for (int i = 0; i <= s; i+=100)
-	a[i].print(i);
+	a[i].print(i);*/
+	cout << "my name: ahmed\n\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
