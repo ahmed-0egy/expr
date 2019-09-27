@@ -21,7 +21,7 @@ int main()
 	cout << "\n\n\n\n\n";
 	for (int i = 0; i <= s; i+=100)
 	a[i].print(i);*/
-	cout << "my name: ahmed\n\n";
+	cout << "my name: ali\n\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
